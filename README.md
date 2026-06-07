@@ -22,7 +22,7 @@ ANTHROPIC_API_KEY=sk-ant-여기에붙여넣기
 
 ### 3. 팀 번호 설정
 
-`team_bot_sample.py` 상단에서 팀 번호를 수정하세요:
+`team_bot.py` 상단에서 팀 번호를 수정하세요:
 
 ```python
 TEAM_ID = "1"   # ← 우리 팀 번호로 변경 (1~9)
