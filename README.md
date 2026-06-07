@@ -55,7 +55,7 @@ claude
 
 Claude Code 안에서:
 ```
-claude.md와 team_bot_sample.py를 읽고
+claude.md와 team_bot.py를 읽고
 우리 팀컬러는 👑 곧죽어도강남이야.
 강남 매물 집중 공략 전략으로 [전략] 부분을 수정해줘.
 ```
@@ -66,7 +66,7 @@ claude.md와 team_bot_sample.py를 읽고
 
 | 파일 | 설명 |
 |------|------|
-| `team_bot_sample.py` | 팀봇 템플릿 — `[전략]` 부분만 수정 |
+| `team_bot.py` | 팀봇 템플릿 — `[전략]` 부분만 수정 |
 | `claude.md` | 게임 규칙 + API 가이드 — Claude Code에 보여주세요 |
 | `.env` | API 키 (직접 생성) |
 
