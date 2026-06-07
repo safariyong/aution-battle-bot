@@ -30,7 +30,7 @@ TEAM_ID = "1"   # ← 우리 팀 번호로 변경 (1~9)
 
 ### 4. 전략 작성
 
-`team_bot_sample.py` 안의 `[전략]` 부분을 우리 팀 전략으로 바꾸세요:
+`team_bot.py` 안의 `[전략]` 부분을 우리 팀 전략으로 바꾸세요:
 
 ```python
 [전략]  ← 이 부분만 수정!
@@ -41,7 +41,7 @@ TEAM_ID = "1"   # ← 우리 팀 번호로 변경 (1~9)
 ### 5. 봇 실행
 
 ```bash
-python team_bot_sample.py --team_id 1
+python team_bot.py --team_id 1
 ```
 
 ---
