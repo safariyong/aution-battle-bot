@@ -9,7 +9,7 @@ SK하이닉스 장비지능화팀 해커톤
 ### 1. 패키지 설치
 
 ```bash
-pip install anthropic requests python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 2. API 키 설정
